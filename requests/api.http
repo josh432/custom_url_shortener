@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.amazon.com/ZippyPaws-Stuffing-Squeaky-Raccoon-Squirrel/dp/B00P0YQYYW/ref=pd_bxgy_199_img_3/137-3192432-0148464?_encoding=UTF8&pd_rd_i=B00P0YQYYW&pd_rd_r=93390d9e-05ad-47bb-b7f7-708c4a6db1bc&pd_rd_w=kZA4Z&pd_rd_wg=TNYEm&pf_rd_p=a2006322-0bc0-4db9-a08e-d168c18ce6f0&pf_rd_r=RXQQKBVAV0TAGQC0VSRA&psc=1&refRID=RXQQKBVAV0TAGQC0VSRA"
+}
